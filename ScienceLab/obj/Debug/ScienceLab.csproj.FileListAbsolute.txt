@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\bin\Debug\ScienceLab.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\bin\Debug\ScienceLab.exe
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\bin\Debug\ScienceLab.pdb
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\obj\Debug\ScienceLab.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\obj\Debug\ScienceLab.exe
+c:\users\mike\documents\visual studio 2015\Projects\ScienceLab\ScienceLab\obj\Debug\ScienceLab.pdb
